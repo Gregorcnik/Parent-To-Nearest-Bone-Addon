@@ -1,12 +1,12 @@
 # Parent To Nearest Bone Addon
-The addon is inspired by Polyfold's video. 
+This addon is inspired by Polyfjord's [video](https://youtu.be/BiPoPMnU2VI?t=709). 
 
 ## Usage:
 
-![Screen Recording 2023-09-03 at 19 49 22 (online-video-cutter com)](https://github.com/Gregorcnik/Parent-To-Nearest-Bone-Addon/assets/99352119/b38d3b38-c7ae-45bf-b932-32b2fb461cdf)
+[usage](https://github.com/Gregorcnik/Parent-To-Nearest-Bone-Addon/assets/99352119/c9e291e9-b926-4bf8-bf40-12d9e32b27ce)
 
 ## How to install it:
 - Download it
-- In blender open settings > addons and click install
+- In Blender open settings > addons and click "Install"
 - Select file you downloaded
-- Enable addon by clicking checkbox next to addon name
+- Enable addon by clicking checkbox next to the addon's name
